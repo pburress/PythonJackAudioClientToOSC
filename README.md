@@ -1,7 +1,7 @@
 # PythonJackAudioClientToOSC
-Script to capture audio from Jack Audio Clent and send amplitued and FFT to OSC messages
-
 JACK AUDIO CLIENT to OSC CLIENT PYTHON SCRIPT.
+
+Script to capture audio from Jack Audio Client and send amplitude and FFT data array to OSC messages
 
 This script is modified from Python Jack Audio Thru Client Example found at: 
 
